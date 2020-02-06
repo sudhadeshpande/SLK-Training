@@ -1,0 +1,5 @@
+C:\Workarea\ASP.NET\MyComputer1\MyComputer1\bin\Debug\MyComputer1.dll
+C:\Workarea\ASP.NET\MyComputer1\MyComputer1\bin\Debug\MyComputer1.pdb
+C:\Workarea\ASP.NET\MyComputer1\MyComputer1\obj\Debug\MyComputer1.csprojResolveAssemblyReference.cache
+C:\Workarea\ASP.NET\MyComputer1\MyComputer1\obj\Debug\MyComputer1.dll
+C:\Workarea\ASP.NET\MyComputer1\MyComputer1\obj\Debug\MyComputer1.pdb
